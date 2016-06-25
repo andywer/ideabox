@@ -7,7 +7,7 @@ Leave a comment or post your own ideas :)
 
 ## In need of immediate feedback
 
-- [Minimalistic HTML rendering](https://github.com/andywer/ideabox/issues/1)
+- [Frontend ORM for handling REST resources](https://github.com/andywer/ideabox/issues/2)
 
 ## Other stuff
 
