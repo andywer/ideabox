@@ -5,9 +5,9 @@ Place for Javscript ideas and to discuss 'em. You find them in the [issues](http
 This is the place where I will put stuff I currently think about.
 Leave a comment or post your own ideas :)
 
-## In need of immediate feedback
+## Latest
 
-- [Frontend ORM for handling REST resources](https://github.com/andywer/ideabox/issues/2)
+- [Nice way to make memwatch investigate your unit tests](https://github.com/andywer/ideabox/issues/3)
 
 ## Other stuff
 
