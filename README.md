@@ -7,7 +7,8 @@ Leave a comment or post your own ideas :)
 
 ## Latest
 
-- [Nice way to make memwatch investigate your unit tests](https://github.com/andywer/ideabox/issues/3)
+- [Make it easy to write PWAs with React / next.js](https://github.com/andywer/ideabox/issues/7)
+- [Memory leakage testing](https://github.com/andywer/ideabox/issues/3)
 
 ## Other stuff
 
